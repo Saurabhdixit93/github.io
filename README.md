@@ -1,6 +1,8 @@
 # github.io
 
-CodingNinja-Music-Player-Project
+# CodingNinja-Music-Player-Project
+
+
 Im doing this Coding Ninja Course for Web Tech. and In the course I had a Major project to make Homepage and 
 single playlist page for a Online Music PLayer website like Spotify but onlie
 Using only HTML and CSS (can latter use JS on it).
